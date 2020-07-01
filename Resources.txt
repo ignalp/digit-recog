@@ -1,0 +1,11 @@
+Create a Web Application using Flask
+
+    https://realpython.com/tutorials/flask/
+    https://pymbook.readthedocs.io/en/latest/flask.html
+    https://www.fullstackpython.com/flask.html
+    https://flask-appbuilder.readthedocs.io/en/latest/templates.html
+    https://pythonhow.com/html-templates-in-flask/
+    https://aryaboudaie.com/python/technical/educational/web/flask/2018/10/17/flask.html
+    https://www.tutorialspoint.com/flask/flask_sending_form_data_to_template.htm
+
+
